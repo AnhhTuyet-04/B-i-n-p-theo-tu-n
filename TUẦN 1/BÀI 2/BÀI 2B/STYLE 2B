@@ -1,0 +1,48 @@
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: teal;
+            font-size: 2.5em;
+            font-family: 'Comic Sans MS', cursive, sans-serif;
+        }
+        .title {
+            border-bottom: 2px solid #ccc;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            font-size: 1.5em;
+            color: black;
+        }
+        .rating {
+            font-size: 1.2em;
+            color: rgb(20, 20, 19);
+        }
+        .recipe-image {
+            float: left;
+            margin-right: 15px;
+        }
+        p {
+            margin: 20px 0;
+        }
+        .ingredients, .directions, .reviews {
+            margin-top: 30px;
+        }
+        .ingredients ul, .directions ol {
+            margin-left: 20px;
+        }
+        .reviews h3 {
+            margin-top: 20px;
+            font-size: 1.2em;
+            color: rgb(40, 34, 34);
+        }
+        .review-item {
+            margin-bottom: 10px;
+        }
+        .review-item span {
+            color: rgb(36, 35, 29);
+        }
+    </style>
